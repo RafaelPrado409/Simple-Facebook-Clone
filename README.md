@@ -1,3 +1,6 @@
+![](https://img.shields.io/badge/react-16.13.1-blue)
+![](https://img.shields.io/badge/-Rocketseat-blue)
+
 ![Image](https://i.imgur.com/jRC8Sxc.png)
 
 # English
