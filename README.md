@@ -5,9 +5,6 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-![](https://img.shields.io/badge/react-16.13.1-blue)
-![](https://img.shields.io/badge/-Rocketseat-blue)
-
 ![Image](https://i.imgur.com/jRC8Sxc.png)
 
 # English
